@@ -1,6 +1,9 @@
-[![MasterHead](https://wallpaperaccess.com/full/8405447.jpg)](https://www.instagram.com/rahmadyxz/)
+[![MasterHead]](https://www.instagram.com/rahmadyxz/)
 
 <h1 align="center">Hi 👋, I'm Sphy >.<</h1>
+<div align="center">
+  <img height="500" src="https://media1.tenor.com/m/agietXpoJh8AAAAC/lycoris-recoil.gif"  />
+</div>
 <h3 align="center">Anime Lovers</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/iOoLUxkcoFoAAAAM/lycoris-recoil-kurumi.gif">
