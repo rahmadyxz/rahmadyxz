@@ -1,10 +1,10 @@
 <h1 align="center">Hello 👋, I'm Sphy >.<</h1>
 <div align="center">
-  <img height="350" src="https://media1.tenor.com/m/agietXpoJh8AAAAC/lycoris-recoil.gif"/>
+  <img height="250" src="https://media1.tenor.com/m/agietXpoJh8AAAAC/lycoris-recoil.gif"/>
 </div>
 <h3 align="center">Anime Lovers</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/iOoLUxkcoFoAAAAM/lycoris-recoil-kurumi.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/MowCd7P9Mj8AAAAM/lycoris-recoil-anime.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
