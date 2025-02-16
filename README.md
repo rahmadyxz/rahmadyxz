@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/agietXpoJh8AAAAM/lycoris-recoil.gif)](https://www.instagram.com/rahmadyxz/)
+[![MasterHead](https://wallpaperaccess.com/full/8405447.jpg)](https://www.instagram.com/rahmadyxz/)
 
 <h1 align="center">Hi 👋, I'm Sphy >.<</h1>
 <h3 align="center">Anime Lovers</h3>
