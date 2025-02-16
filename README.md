@@ -4,7 +4,7 @@
 </div>
 <h3 align="center">Anime Lovers</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/iOoLUxkcoFoAAAAM/lycoris-recoil-kurumi.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/MowCd7P9Mj8AAAAM/lycoris-recoil-anime.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aiprojectchiwa&label=Profile%20views&color=0e75b6&style=flat" alt="aiprojectchiwa" /> </p>
 
